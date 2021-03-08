@@ -1,0 +1,15 @@
+{
+  "name": "qa-exercise",
+  "displayName": "qa-exercise",
+  "expo": {
+    "name": "qa-exercise",
+    "slug": "qa-exercise",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.sippd.qa"
+    }
+  }
+}
